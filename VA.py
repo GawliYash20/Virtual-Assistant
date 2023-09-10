@@ -24,7 +24,7 @@ model.load_state_dict(model_state)
 model.eval()
 #----------------------------------
 
-Name = "systemBuddy"
+Name = "VA"
 
 from listen import Listen
 from speech import Say
